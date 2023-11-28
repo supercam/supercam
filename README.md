@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**supercam/supercam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is where my IT projects live that I am working on.
+my Mkdocs site is supercam.github.io/greybox
 
 Here are some ideas to get you started:
 
